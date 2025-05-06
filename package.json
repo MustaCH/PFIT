@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "@expo/metro-runtime": "~5.0.4",
+    "@genkit-ai/googleai": "^1.8.0",
     "expo": "~53.0.7",
     "expo-constants": "^17.1.5",
     "expo-status-bar": "~2.2.3",
+    "genkit": "^1.8.0",
     "nativewind": "^4.1.23",
     "react": "19.0.0",
     "react-dom": "19.0.0",

@@ -22,7 +22,7 @@ export const Button = ({ title , onPress , theme }: ButtonProps) => {
                 <Text
                     className={`
                         ${pressed ? current.bgPressed : current.bg}
-                        px-4 py-6 rounded-xl w-96 text-center ${current.text} text-xl font-semibold
+                        px-4 py-6 rounded-xl w-full text-center ${current.text} text-xl font-semibold
                     `}
                 >
                     {title}
