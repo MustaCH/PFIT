@@ -1,0 +1,1 @@
+export type ButtonColors = "default" | "primary" | "secondary" | "danger";
